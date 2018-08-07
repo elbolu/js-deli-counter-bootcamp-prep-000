@@ -1,4 +1,6 @@
-function takeANumber(){
-  const katzDeliLine = []
+function takeANumber(line, name) {
+  line.push(name)
+  return `Welcome, ${name}. You are number ${line.length} in line.`
 }
-  return takeANumber
+
+function nowServing(name)
