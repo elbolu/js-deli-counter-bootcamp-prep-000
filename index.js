@@ -1,4 +1,4 @@
 function takeANumber(){
   const katzDeliLine = []
 }
-  return katzDeliLine
+  return takeANumber
