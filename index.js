@@ -12,6 +12,10 @@ function nowServing(line){
 }
 
 function currentLine(line){
+  
+  
+  
+  
   const numbersAndNames = []
 
   for (let i = 0, l = line.length; i < l; i++) {
